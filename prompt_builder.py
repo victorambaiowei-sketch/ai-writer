@@ -1,3 +1,4 @@
+# The function to build the prompt
 def build_prompt(user_input, tone, audience, format_type):
     return f"""
 ROLE:
